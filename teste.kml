@@ -2,7 +2,11 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Placemark>
     <name>Avenida Paulista, 1578, São Paulo, SP</name>
-    <description>Endereço da Avenida Paulista, 1578, São Paulo, SP</description>
     <address>Avenida Paulista, 1578, São Paulo, SP</address>
+    <Point>
+      <extrude>1</extrude>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <address>Avenida Paulista, 1578, São Paulo, SP</address>
+    </Point>
   </Placemark>
 </kml>
