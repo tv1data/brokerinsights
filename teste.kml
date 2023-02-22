@@ -4,8 +4,5 @@
     <name>Avenida Paulista, 1578, São Paulo, SP</name>
     <description>Endereço da Avenida Paulista, 1578, São Paulo, SP</description>
     <address>Avenida Paulista, 1578, São Paulo, SP</address>
-    <Point>
-      <coordinates>-46.6517051,-23.5636881,0</coordinates>
-    </Point>
   </Placemark>
 </kml>
