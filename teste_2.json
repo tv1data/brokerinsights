@@ -1,0 +1,12 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Avenida Paulista",
+                "address": "Avenida Paulista, 1578, São Paulo, SP"
+            }
+        }
+    ]
+}
