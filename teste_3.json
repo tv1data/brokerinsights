@@ -1,0 +1,10 @@
+{
+  "name": "Endereço sem coordenadas",
+  "description": "Exemplo de endereço sem coordenadas",
+  "locations": [
+    {
+      "name": "Endereço",
+      "address": "Avenida Paulista, 1578, São Paulo, SP"
+    }
+  ]
+}
