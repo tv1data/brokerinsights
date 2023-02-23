@@ -1,0 +1,19 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Avenida Paulista",
+                "address": "Avenida Paulista, 1578, São Paulo, SP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6483021,
+                    -23.5641356
+                ]
+            }
+        }
+    ]
+}
